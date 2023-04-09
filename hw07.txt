@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HELLO THERE CSCI-C151!
+=======
+
+>>>>>>> 06f1a0fe4f80b795cd9d953bf667733bcfb07dec
 
 Hello!
 
